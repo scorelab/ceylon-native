@@ -1,0 +1,32 @@
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/slf4j/simple/1.6.1/org.slf4j.simple-1.6.1.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/httpcomponents/httpclient/4.3.2/org.apache.httpcomponents.httpclient-4.3.2.jar:
+/home/tharindu/gsoc2016/ceylon-native/sampleprograms-ceylon/demo/modules/hello/1.0.0/hello-1.0.0.car:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/jboss/jandex/2.0.0.Final/org.jboss.jandex-2.0.0.Final.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/httpcomponents/httpcore/4.3.2/org.apache.httpcomponents.httpcore-4.3.2.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/github/lookfirst/sardine/5.1/com.github.lookfirst.sardine-5.1.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/module-resolver/1.2.2/com.redhat.ceylon.module-resolver-1.2.2.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/commons/logging/1.1.1/org.apache.commons.logging-1.1.1.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/langtools/classfile/1.2.2/com.redhat.ceylon.langtools.classfile-1.2.2.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/slf4j/api/1.6.1/org.slf4j.api-1.6.1.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/ceylon/language/1.2.2/ceylon.language-1.2.2.car:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/net/minidev/json-smart/1.1.1/net.minidev.json-smart-1.1.1.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/jboss/modules/1.4.4.Final/org.jboss.modules-1.4.4.Final.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/model/1.2.2/com.redhat.ceylon.model-1.2.2.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/maven-support/2.0/com.redhat.ceylon.maven-support-2.0.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/common/1.2.2/com.redhat.ceylon.common-1.2.2.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/tautua/markdownpapers/core/1.2.7/org.tautua.markdownpapers.core-1.2.7.jar:
+/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/commons/codec/1.8/org.apache.commons.codec-1.8.jar
+
+
+java -cp `ceylon classpath hello/1.0.0` com.redhat.ceylon.compiler.java.runtime.Main hello/1.0.0 hello.run_ 
+
+
+Compiling 
+
+javac -cp `ceylon classpath hello/1.0.0` Run.java
+
+
+Running 
+
+sudo java -cp /home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/slf4j/simple/1.6.1/org.slf4j.simple-1.6.1.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/httpcomponents/httpclient/4.3.2/org.apache.httpcomponents.httpclient-4.3.2.jar:/home/tharindu/gsoc2016/ceylon-native/sampleprograms-ceylon/demo/modules/hello/1.0.0/hello-1.0.0.car:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/jboss/jandex/2.0.0.Final/org.jboss.jandex-2.0.0.Final.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/httpcomponents/httpcore/4.3.2/org.apache.httpcomponents.httpcore-4.3.2.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/github/lookfirst/sardine/5.1/com.github.lookfirst.sardine-5.1.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/module-resolver/1.2.2/com.redhat.ceylon.module-resolver-1.2.2.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/commons/logging/1.1.1/org.apache.commons.logging-1.1.1.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/langtools/classfile/1.2.2/com.redhat.ceylon.langtools.classfile-1.2.2.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/slf4j/api/1.6.1/org.slf4j.api-1.6.1.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/ceylon/language/1.2.2/ceylon.language-1.2.2.car:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/net/minidev/json-smart/1.1.1/net.minidev.json-smart-1.1.1.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/jboss/modules/1.4.4.Final/org.jboss.modules-1.4.4.Final.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/model/1.2.2/com.redhat.ceylon.model-1.2.2.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/maven-support/2.0/com.redhat.ceylon.maven-support-2.0.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/com/redhat/ceylon/common/1.2.2/com.redhat.ceylon.common-1.2.2.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/tautua/markdownpapers/core/1.2.7/org.tautua.markdownpapers.core-1.2.7.jar:/home/tharindu/.sdkman/candidates/ceylon/1.2.2/repo/org/apache/commons/codec/1.8/org.apache.commons.codec-1.8.jar:/home/tharindu/gsoc2016/ceylon-native/sampleprograms-ceylon/demo Run
+

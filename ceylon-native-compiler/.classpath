@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/tharindu/gsoc2016/ceylon-native/sampleprograms-ceylon/ceylon.runtime-1.2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
